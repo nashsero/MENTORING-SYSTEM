@@ -19,7 +19,7 @@ The SMS was designed to allow students to create their own accounts. During regi
 
 Once enrolled, students would be responsible for submitting applications and availability, as well as logging their attendance throughout semester. Mentors are additionally responsible for setting session dates ahead of time.
 
-> !!! note Mentors can also apply to be mentees
+> !!! Note Mentors can also apply to be mentees
 
 Staff accounts, on the other hand, are created by the course coordinator. A staff member should change their password when they log in for the first time. Having the coordinator create staff accounts is an easy means of preventing unauthorized access. Staff accounts require a name, email and password.
 
